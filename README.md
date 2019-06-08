@@ -406,6 +406,7 @@ Turn-based dice game where players score points by rolling a die and then: if th
 Hint: If you are dealing with languages such as ***c*** then consider the sentences as the char array.
 
 ## Solutions
+- [Shadab Ahamed](https://github.com/shadab22/beginner-projects-solutions)
 - [aekanshd](https://github.com/aekanshd/beginner-projects/tree/master/solutions/python)
 - [Everstalk](https://github.com/Everstalk/BP)
 - [NickSchmiek](https://github.com/NickSchimek/Python-Beginner-Projects)
@@ -444,6 +445,7 @@ Hint: If you are dealing with languages such as ***c*** then consider the senten
 - [vpatyal](https://github.com/vpatyal/beginner-projects-solutions)
 - [zamerman](https://github.com/zamerman/beginner-projects-solutions)
 - [Narethmarch Venmey](https://github.com/mw112)
+
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
